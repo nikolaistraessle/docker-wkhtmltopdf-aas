@@ -9,6 +9,8 @@
 
 wkhtmltopdf in a docker container as a rest api web service.
 
+*Many thanks to https://github.com/traum-ferienwohnungen/docker-wkhtmltopdf-aas*
+
 ## Live demo
 
 [https://docker-wkhtmltopdf-aas.herokuapp.com](https://docker-wkhtmltopdf-aas.herokuapp.com)<br>
